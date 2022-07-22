@@ -12,7 +12,6 @@ write a blog on difference between HTTP1.1 VS HTTP2
              
              
 write a blog about objects and its internal representation in javascript  
-
       Objects in JavaScript is  most important data-type and forms the building blocks for modern JavaScript. These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types). 
       
       To accessing the value inside the object has two types
