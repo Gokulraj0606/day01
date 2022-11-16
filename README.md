@@ -8,7 +8,7 @@ write a blog on difference between HTTP1.1 VS HTTP2
      HTTP2 : HTTP2 is much faster and more reliable than HTTP1
              It avoids network delay by using multiplexing
              It works on the binary protocol.
-             It uses PUSH frame by server that collects all multiple pages 
+             It uses PUSH frame by server that collects all multiple pages. 
              
              
 write a blog about objects and its internal representation in javascript  
